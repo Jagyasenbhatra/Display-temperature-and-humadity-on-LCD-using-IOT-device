@@ -86,7 +86,7 @@ void loop() {
 
 # Screenshots
 
-![fig](/photo/exp1.jpg)
+![fig](/exp1.jpg)
 **fig-1**
-![fig](/photo/exp92.jpg)
+![fig](/exp92.jpg)
 **fig-2**
