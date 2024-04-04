@@ -8,7 +8,7 @@
 5. 16 x 2 LCD 
 6. Potentiometer  
    
-**Arduino IDE** : [Downlaod](https://www.arduino.cc/en/software)
+**Arduino IDE** : [Download IDE](https://www.arduino.cc/en/software)
 
 
 ## Connection
